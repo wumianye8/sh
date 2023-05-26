@@ -13,8 +13,8 @@ oci=end
 
 
 #用户信息 从 https://t.me/radiance_helper_bot 配置(bot可使用/raninfo命令随机生成)
-username=59b86051ef504f3b842f4ced5fe25fcf
-password=86040fa92aa8472db89a83ea94e4ce10
+username=5102dafd1a3e45c680dcdc3aa20783bd
+password=a6ab0f67c41a431aa5856ccecaa298db
 
 
 #cloudflare 功能参数 非必传
