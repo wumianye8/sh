@@ -2,28 +2,19 @@
 oci=begin
 
 [DEFAULT]
-user=ocid1.user.oc1..aaaaaaaaxxxxgwlg3xuzwgsaazxtzbozqq
-fingerprint=b8:33:6f:xxxx:45:43:33
-tenancy=ocid1.tenancy.oc1..aaaaaaaaxxx7x7h4ya
-region=ap-singapore-1
-key_file=写你的API密钥文件路径
-
-[DEFAULT2]
-user=ocid1.user.oc1..aaaaaaaaxxxxgwlg3xuzwgsaazxtzbozqq
-fingerprint=b8:33:6f:xxxx:45:43:33
-tenancy=ocid1.tenancy.oc1..aaaaaaaaxxx7x7h4ya
-region=ap-singapore-1
-key_file=写你的API密钥文件路径
+user=ocid1.user.oc1..aaaaaaaa436krp7df6jgd6nrdlvyl3xemgfomzinm6edvoaebfyobymdc7lq
+fingerprint=74:9b:e1:ea:1c:cf:80:8a:92:7f:42:12:ae:8b:89:5c
+tenancy=ocid1.tenancy.oc1..aaaaaaaacey27sb5vh5qzkicdefuf4gvaik2pyl3nknx44crnhu6uiwqs4bq
+region=us-sanjose-1
+key_file=/home/rbot/key.pem
 
 oci=end
 
 
 
 #用户信息 从 https://t.me/radiance_helper_bot 配置(bot可使用/raninfo命令随机生成)
-#必传
-username=
-#必传
-password=
+username=59b86051ef504f3b842f4ced5fe25fcf
+password=86040fa92aa8472db89a83ea94e4ce10
 
 
 #cloudflare 功能参数 非必传
