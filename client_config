@@ -3,7 +3,7 @@ oci=begin
 
 [DEFAULT]
 user=ocid1.user.oc1..aaaaaaaa436krp7df6jgd6nrdlvyl3xemgfomzinm6edvoaebfyobymdc7lq
-fingerprint=d3:e3:18:3a:98:52:25:2f:01:1c:e9:a4:46:1e:c1:67
+fingerprint=0f:24:70:c9:9f:bd:58:3e:9c:c4:39:a9:ef:28:8e:df
 tenancy=ocid1.tenancy.oc1..aaaaaaaacey27sb5vh5qzkicdefuf4gvaik2pyl3nknx44crnhu6uiwqs4bq
 region=us-sanjose-1
 key_file=/home/rbot/key.pem
